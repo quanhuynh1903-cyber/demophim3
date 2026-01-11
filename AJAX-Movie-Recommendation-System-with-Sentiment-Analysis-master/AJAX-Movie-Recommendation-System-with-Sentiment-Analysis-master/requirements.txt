@@ -1,4 +1,9 @@
+flask
 streamlit
+gunicorn
+jinja2
+markupsafe
+werkzeug
 numpy
 scipy
 nltk
